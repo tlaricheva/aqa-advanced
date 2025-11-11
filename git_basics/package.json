@@ -1,0 +1,16 @@
+{
+  "name": "git_basics",
+  "version": "1.0.0",
+  "description": "feat-git-basics\r Now I can use git\r This is the main branch\r main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
